@@ -28,3 +28,5 @@ $ python3 main.py
 - https://www.ncbi.nlm.nih.gov/labs/virus/vssi/
 - https://scikit-learn.org/stable/
 - https://xgboost.readthedocs.io/en/latest/
+
+For Educational purposes only.
